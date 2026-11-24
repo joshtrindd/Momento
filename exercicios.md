@@ -19,8 +19,8 @@ INSERT INTO funcionarios
 (funcionario_id, primeiro_nome, sobrenome, email, data_contratacao,
  cargo_id, salario, moeda_salario, departamento_id)
 VALUES
-(1000, 'Adrielly', 'Soares Ferreira de Araujo',
- 'adrielly.soares@momento.org', '2026-11-08', 9, 4500.00, 'USD', 6);
+(1000, 'Joshua', 'Trindade dos Santos',
+ 'joshuat@momento.org', '2026-11-08', 9, 4500.00, 'USD', 6);
 ```
 
 **1.2 — Agora que você faz parte da equipe, quantos funcionários temos ao total na empresa?**
