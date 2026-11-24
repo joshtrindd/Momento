@@ -2,7 +2,7 @@
 
 Resolução dos níveis 1 a 6, conforme a base anexada.
 
-**Critérios:** resultados dos níveis 1 a 5 após o cadastro de Adrielly em 1.1; funcionários de todos os status; salários separados por moeda; vendas apenas com status `CONCLUIDA`. Sem conversão cambial. No nível 5, pedidos cancelados e o status não esclarecido `1` não são tratados como vendas concluídas.
+**Critérios:** resultados dos níveis 1 a 5 após o cadastro de Joshua em 1.1; funcionários de todos os status; salários separados por moeda; vendas apenas com status `CONCLUIDA`. Sem conversão cambial. No nível 5, pedidos cancelados e o status não esclarecido `1` não são tratados como vendas concluídas.
 
 ```sql
 USE momento;
@@ -12,7 +12,7 @@ USE momento;
 
 **1.1 — Você acabou de ser contratado pela Momento! Vamos começar incluindo você no sistema, escolha um departamento, cargo e salário.**
 
-R: Cadastro fictício de Adrielly em Tecnologia da Informação, no cargo Desenvolvedor Web, com salário de USD 4.500,00. Execute uma vez em uma base recém-carregada.
+R: Cadastro fictício de Joshua em Tecnologia da Informação, no cargo Desenvolvedor Web, com salário de USD 4.500,00. Execute uma vez em uma base recém-carregada.
 
 ```sql
 INSERT INTO funcionarios
